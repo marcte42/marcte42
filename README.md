@@ -31,4 +31,4 @@
 
 <h3> 🤝🏻 Hire Me </h3>
 
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?link=https://www.linkedin.com/in/marcte&style=flat&logo=linkedin)
