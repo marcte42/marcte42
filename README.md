@@ -1,13 +1,11 @@
-### Hi there, I'm Marc ! 👋
+## Hi there, I'm Marc ! 👋
 
-<h3> 💻 About Me </h3>
+### 💻 About Me
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
 - 🎓 &nbsp; Studying Software Enginering at [École 42](https://42.fr/), Paris.
 
----
-
-<h3> 🛠 Tech Stack</h3>
+### 🛠 Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -29,9 +27,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-333333?style=flat&logo=intellijidea&logoColor=b342f5)
 
----
+### 🤝🏻 Hire Me
 
-<h3> 🤝🏻 Hire Me </h3>
-
-👔&nbsp;&nbsp;[Resume](https://burnt-script-6bb.notion.site/Hi-2cffc19b35d24cc7a47c453f161ca1a0)\
-🔗&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/marcte)
+👔&nbsp;&nbsp;[Resume](https://burnt-script-6bb.notion.site/Hi-2cffc19b35d24cc7a47c453f161ca1a0)
+&nbsp;&nbsp;🔗&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/marcte)
