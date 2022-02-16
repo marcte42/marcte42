@@ -29,5 +29,5 @@
 
 ### 🤝🏻 Hire Me
 
-👔&nbsp;&nbsp;[Resume](https://burnt-script-6bb.notion.site/Hi-2cffc19b35d24cc7a47c453f161ca1a0)
-&nbsp;&nbsp;🔗&nbsp;&nbsp;[LinkedIn](https://www.linkedin.com/in/marcte)
+👔&nbsp;[Resume](https://burnt-script-6bb.notion.site/Hi-2cffc19b35d24cc7a47c453f161ca1a0)
+&nbsp;&nbsp;🔗[LinkedIn](https://www.linkedin.com/in/marcte)
