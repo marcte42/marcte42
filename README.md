@@ -13,8 +13,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)\
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=5E97D0)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)\
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)\
 ![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=symfony)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Vue](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vuedotjs)\
