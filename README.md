@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<h2>I'm Marc.</h2>
+### Hi there, I'm Marc ! 👋
 
 <h3> 💻 About Me </h3>
 
