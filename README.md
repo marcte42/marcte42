@@ -25,7 +25,7 @@
 ![MacOS](https://img.shields.io/badge/-MacOS-333333?style=flat&logo=macos)
 ![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows&logoColor=00a2ed)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-333333?style=flat&logo=intellijidea&logoColor=b342f5)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-333333?style=flat&logo=intellijidea)
 
 ### 🤝🏻 Hire Me
 
