@@ -31,4 +31,4 @@
 
 <h3> 🤝🏻 Hire Me </h3>
 
-[LinkedIn](https://www.linkedin.com/in/marcte)
+[LinkedIn](https://www.linkedin.com/in/marcte) / [Resume](https://burnt-script-6bb.notion.site/Hi-2cffc19b35d24cc7a47c453f161ca1a0)
