@@ -3,7 +3,7 @@
 ### About Me
 
 - Exploring new technologies and developing software solutions to our worlds tech problems.
-- Studying Software Enginering at [École 42](https://42.fr/), Paris.
+- Studying Software Engineering at [École 42](https://42.fr/), Paris.
 
 ### Tech Stack
 
