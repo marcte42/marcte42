@@ -10,8 +10,8 @@
 
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=5E97D0)
-![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)\
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)\
 ![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=symfony)
 ![Vue](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vuedotjs)\
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
