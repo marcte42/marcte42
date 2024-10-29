@@ -12,8 +12,9 @@
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=5E97D0)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)\
-![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=symfony)
-![Vue](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vuedotjs)\
+![Svelte](https://img.shields.io/badge/-Svelte-333333?style=flat&logo=SVELTE)
+![Vue](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vuedotjs)
+![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=symfony)\
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)\
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
