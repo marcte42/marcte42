@@ -15,7 +15,7 @@
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=5E97D0)\
 ![Svelte](https://img.shields.io/badge/-Svelte-333333?style=flat&logo=SVELTE)
 ![Vue](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vuedotjs)
-![NestJS](https://img.shields.io/badge/-NestJs-333333?style=flat&logo=nestjs)
+![NestJS](https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs)
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
 ![Symfony](https://img.shields.io/badge/-Symfony-333333?style=flat&logo=symfony)\
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=PostgreSQL)
