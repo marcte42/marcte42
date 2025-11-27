@@ -21,6 +21,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)\
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)\
+![Tailwind](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=Tailwind&logoColor=1572B6)\
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
