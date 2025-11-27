@@ -8,6 +8,7 @@
 ### Tech Stack
 
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
