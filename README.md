@@ -12,7 +12,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=5E97D0)\
-![NestJs](https://img.shields.io/badge/-NestJs-333333?style=flat&logo=nestjs)
+![NestJS](https://img.shields.io/badge/-NestJs-333333?style=flat&logo=nestjs)
 ![Svelte](https://img.shields.io/badge/-Svelte-333333?style=flat&logo=SVELTE)
 ![Vue](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vuedotjs)
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
